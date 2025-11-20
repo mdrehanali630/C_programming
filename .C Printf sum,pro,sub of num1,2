@@ -1,0 +1,16 @@
+#include <stdio.h>
+  void main()
+{
+  int num1;
+  int num2;
+   num1=15;
+   num2=3;
+int sum=num1+num2;
+int pro=num1*num2;
+int sub=num1-num2;
+clrscr();
+printf("The sum of %d and %d is %d\n",num1,num2,sum);
+printf("The pro of %d and %d is %d\n",num1,num2,pro);
+printf("The sub of %d and %d is %d\n",num1,num2,sub);
+getch();
+}
