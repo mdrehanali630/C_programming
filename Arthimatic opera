@@ -1,0 +1,9 @@
+#include <stdio.h>
+      void main()
+      {
+       int a=2;
+       int b=3;
+       int c=4;
+       int d=5;
+       printf("d/a-c*b+d is %d",d/a-c*b+d);
+       }
